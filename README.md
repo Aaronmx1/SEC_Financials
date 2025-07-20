@@ -3,6 +3,13 @@ This repository contains Quarterly &amp; Yearly SEC filed financials of publicly
 
 The purpose of this repository is to perform analysis on multiple entities to determine whether their financial records move in sync with their stock trading price over time.  This repository will continue to grow as new data sources of data are integrated to help identify trends and other factors which influence deviations or alignment between financials and stock ticker pricing.
 
+# ETL process
+**Data source:** Datasets come from data.gov and are downloaded as a text file which is tab delimited and converts to CSV.
+
+**ETL:** Retrieves CSV files, transforms dates, handles NULL values, and updates data types to fit database tables.
+
+**Schema:** Tables created to hold 4 unique datasets and their relationships are shown in the diagram.
+
 # Schema
 ![SEC_schema drawio](https://github.com/user-attachments/assets/d41fe420-1d12-40a8-832f-f0767966c539)
 
