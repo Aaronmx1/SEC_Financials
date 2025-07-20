@@ -21,3 +21,18 @@ The purpose of this repository is to perform analysis on multiple entities to de
 ·          TAG – Tag data set; includes defining information about each numerical tag.  Information includes tag descriptions (documentation labels), taxonomy version information and other tag attributes.
 
 ·          PRE – Presentation data set; this provides information about how the tags and numbers were presented in the primary financial statements as rendered by the Commission.
+
+# Data Dictionary
+Each table below has an overview of it's purpose and data type.
+
+**SUB (Submissions)** 
+<img width="1065" height="1113" alt="image" src="https://github.com/user-attachments/assets/5e558734-89e1-4596-84d3-cbbce7d3c09d" />
+
+**TAG (Tags)**
+<img width="1065" height="321" alt="image" src="https://github.com/user-attachments/assets/d8df3622-6610-4302-9c4e-2a0f4883eceb" />
+
+**NUM (Numbers)**
+<img width="1066" height="326" alt="image" src="https://github.com/user-attachments/assets/56809a03-a3f7-4fd5-a532-cf3079352f81" />
+
+**PRE (Presentation of Statements)**
+<img width="1065" height="461" alt="image" src="https://github.com/user-attachments/assets/a67c5b56-69ae-4537-8205-c86bac4e4a0b" />
