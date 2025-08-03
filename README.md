@@ -11,7 +11,7 @@ The purpose of this repository is to perform analysis on multiple entities to de
 **Schema:** Tables created to hold 4 unique datasets and their relationships are shown in the diagram.
 
 # Schema
-![SEC_schema drawio](https://github.com/user-attachments/assets/d41fe420-1d12-40a8-832f-f0767966c539)
+![Schema](https://github.com/user-attachments/assets/a2f67610-4da7-442d-b08b-3c2a69da4112)
 
 ## Details of Schema:
 ·          SUB – Submission data set; this includes one record for each XBRL submission with amounts rendered by the Commission in the primary financial statements. The set includes fields of information pertinent to the submission and the filing entity. Information is extracted from the SEC’s EDGAR system and the filings submitted to the SEC by registrants.
