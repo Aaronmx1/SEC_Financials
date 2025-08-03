@@ -1,10 +1,10 @@
 # Overview
-This repository contains Quarterly &amp; Yearly SEC filed financials of publicly listed companies.  Datasets represented in this were pulled from data.gov for 2025-Q2.  
+This repository contains Quarterly &amp; Yearly SEC filed financials of publicly listed companies.  Datasets represented in this were pulled from data.gov for 2025-Q2. 
 
 The purpose of this repository is to perform analysis on multiple entities to determine whether their financial records move in sync with their stock trading price over time.  This repository will continue to grow as new data sources of data are integrated to help identify trends and other factors which influence deviations or alignment between financials and stock ticker pricing.
 
 # ETL process
-**Data source:** Datasets come from data.gov and are downloaded as a text file which is tab delimited and converts to CSV.
+**Data source:** Datasets come from data.gov (https://www.sec.gov/data-research/sec-markets-data/financial-statement-data-sets) and are downloaded as a text file which is tab delimited and converts to CSV.
 
 **ETL:** Retrieves CSV files, transforms dates, handles NULL values, and updates data types to fit database tables.
 
