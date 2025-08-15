@@ -1,4 +1,7 @@
+## [Deprecated] Please see: https://github.com/Aaronmx1/sec_financials_project
+
 # Overview
+
 This repository contains Quarterly &amp; Yearly SEC filed financials of publicly listed companies.  Datasets represented in this were pulled from data.gov for 2025-Q2. 
 
 The purpose of this repository is to perform analysis on multiple entities to determine whether their financial records move in sync with their stock trading price over time.  This repository will continue to grow as new data sources of data are integrated to help identify trends and other factors which influence deviations or alignment between financials and stock ticker pricing.
